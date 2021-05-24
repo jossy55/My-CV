@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/jossy55/My-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Header 1 Personal Statement
+( "I am a motivated ,responsible and approachable individual with a strong work ethic , built upon a career of retail management.I see myself as conscientious and objective as i thrive to achieve goals and am capable of meeting deadlines whilst under pressure ,I can operate both independently using my own initiative and as a member of a team")
+## Header 2 
 ### Header 3
 
 - Bulleted
